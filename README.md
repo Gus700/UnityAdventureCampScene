@@ -25,8 +25,14 @@ This scene built in the Unity game engine depicts a camptsite right outside the 
 
 #### Main Character
 
-- Assigned to the *Chair_Player* game object
+- Assigned to the *Chair_Player* game object.
 
 ## Cameras
 
+- The *Scene Camera* game onject gives an orthographic view of the enviroment from a high above.
+- *Moving camera* gives a rotational view of the campsite and its surounding.
+- Both *First Person* and *Third Person* are attached *Chair_Player* game object and give their respective views from the campsite table.
+
 ## Materials & textures
+
+
