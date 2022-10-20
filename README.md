@@ -1,6 +1,8 @@
 # Unity Campsite Scene
 
-This scene built in the Unity game engine depicts a camptsite right outside the entrance of a unkown and remote nation. Travelers are advised to rest up besides the campsite and restock on supplies before crossing the mysterious stone walls placed between tall moutain peaks.
+- This scene built in the Unity game engine depicts a camptsite right outside the entrance of a unkown and remote nation. Travelers are advised to rest up besides the campsite and restock on supplies before crossing the mysterious stone walls placed between tall moutain peaks.  
+- When planning this scene I set myself to using objects that were not very sophisticated, both in looks and function. Simple items like a wooden cart or a small tent helps one understand the challenge ahead in the given narrative of the scene. Low poly assests also helped me make the scene more digestable to the eyes compared to other more realistic assest that I tried at first.  
+- Most of my inspiration came from the grandiose places that can be found in fantasy works like that of The Lord of The Tings or the Hobbit, while this is at a much smaller and simpler scale, having that as reference, helped me envision the layout and scaling of the objects used in my project.
 
 ## Objects 
 
