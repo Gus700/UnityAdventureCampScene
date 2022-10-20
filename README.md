@@ -45,8 +45,6 @@
 - The skybox cubemap was obtained from [FREE Skybox Extended Shader](https://assetstore.unity.com/packages/vfx/shaders/free-skybox-extended-shader-107400) in the Unity Asset store.
 - all other objects have the materials/shaders that came in their respective asset packs
 
-## Video Link
-
-- pending
+## [Video Submission Link](https://youtu.be/lJ2irujBbAY)
 
 
